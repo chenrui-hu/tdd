@@ -11,7 +11,7 @@ public class mommifierTest {
 
     @Test
     public void shouldReturnMommy() {
-        assertEquals("mommy", new Mommifier().mommify("a"));
+        assertEquals("mommy", new Mommifier().mommify("i"));
     }
 
     @Test
